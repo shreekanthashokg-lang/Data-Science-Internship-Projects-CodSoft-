@@ -1,4 +1,4 @@
-# 🔬 CodSoft Data Science Internship — All Tasks
+# 🔬 CodSoft Data Science Internship 
 
 # NAME : SHREEKANTH A GUTTEDAR
 
@@ -154,5 +154,6 @@ python Task5_FraudDetection/fraud_detection.py
 
 ---
 
-> Made with ❤️ during the **CodSoft Data Science Internship**  
+> Made with ❤️ during the **CodSoft Data Science Internship**
+> THANK YOUU FOR THE OPPORTUNITY #CODSOFT 
 > `#codsoft` `#datascience` `#machinelearning` `#python` `#internship`
