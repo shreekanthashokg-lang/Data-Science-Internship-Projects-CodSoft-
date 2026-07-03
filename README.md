@@ -9,3 +9,5 @@ Each visualization has been carefully designed to emphasize key insights, making
 
 Beyond raw performance, the dashboard reflects the evolution of my skills in data preprocessing, feature engineering, and model optimization.  
  It demonstrates how visualization can transform technical results into actionable knowledge.
+
+ This collection serves as both a portfolio artifact and a learning record, capturing the progress made during the internship and offering a foundation for future projects in data science and AI.
