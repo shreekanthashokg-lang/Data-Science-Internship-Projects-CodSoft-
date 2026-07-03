@@ -8,3 +8,4 @@ The dashboard not only showcases the visual outputs but also highlights the anal
 Each visualization has been carefully designed to emphasize key insights, making complex data easier to interpret. The charts illustrate trends, correlations, and outcomes that guided decision-making throughout the internship.
 
 Beyond raw performance, the dashboard reflects the evolution of my skills in data preprocessing, feature engineering, and model optimization.  
+ It demonstrates how visualization can transform technical results into actionable knowledge.
