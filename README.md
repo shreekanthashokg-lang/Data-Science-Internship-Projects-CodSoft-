@@ -135,7 +135,7 @@ Through the five projects, I gained practical exposure to:
 
 The progression across the projects demonstrates the transition from **working with raw data to developing, evaluating, and communicating machine learning solutions**.
 
-### 🏆 Portfolio & Project Documentation
+### 🏆 PORTFOLIO & PROJECT DOCUMENTATION 
 
 Beyond being a collection of plots, this dashboard serves as both a **portfolio artifact and a structured record of my internship experience**.
 
