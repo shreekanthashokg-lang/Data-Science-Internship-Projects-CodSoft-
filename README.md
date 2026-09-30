@@ -77,7 +77,7 @@ Each stage contributed to the final results presented in the dashboard.
 
 The process also provided practical experience in understanding how the quality of preprocessing and feature preparation can influence downstream machine learning performance.
 
-### 🧩 Data Preprocessing & Feature Engineering
+### 🧩 DATA PREPROCESSING & DATA PREPROCESSING & FEATURE ENGINEERING 
 
 The dashboard also reflects the importance of preparing data before applying machine learning algorithms.
 
