@@ -96,7 +96,7 @@ Feature engineering was particularly important because well-prepared features ca
 
 The corresponding visualizations help communicate the changes and patterns observed during this stage of the workflow.
 
-### 📊 Performance Evaluation & Interpretation
+### 📊 PERFORMANCE EVALUATION & INTERPRETATION 
 
 The dashboard goes beyond displaying model scores by providing visual representations of model performance.
 
