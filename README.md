@@ -114,7 +114,7 @@ Instead of relying exclusively on tables of numbers, the charts provide visual c
 
 This makes the analytical results more accessible to both technical and non-technical audiences.
 
-### 🎯 Internship Learning & Skill Development
+### 🎯 INTERSHIP LEARNING & SKILL DEVELOPMENT
 
 The dashboard also serves as a visual record of the technical skills developed during the internship.
 
