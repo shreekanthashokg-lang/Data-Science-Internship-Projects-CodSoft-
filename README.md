@@ -3,9 +3,6 @@
 [Click here to download the PDF dashboard](./DS%20INTERNSHIP/CodSoft_Visualizations.pdf) – 
 
 
-## 📊 Visualizations Dashboard
-
-**[Click here to download the complete PDF dashboard](./DS%20INTERNSHIP/CodSoft_Visualizations.pdf)**
 
 The **Visualizations Dashboard** is a comprehensive collection of the analytical visualizations, model comparisons, performance evaluations, and key findings generated across the **five projects completed during my Data Science internship at CodSoft**.
 
