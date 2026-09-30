@@ -104,7 +104,7 @@ Performance charts make it easier to compare algorithms and understand where mod
 
 This approach provides a more complete perspective of model behavior and helps distinguish between **raw numerical performance and meaningful analytical interpretation**.
 
-### 💡 From Technical Results to Actionable Insights
+### 💡 FROM TECHNICAL RESULTS TO ACTIONABLE INSIGHTS
 
 A major objective of the dashboard is to demonstrate how visualization can transform complex technical results into information that is easier to understand and communicate.
 
