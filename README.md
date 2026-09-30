@@ -67,7 +67,7 @@ Charts and plots were used to identify:
 
 These observations supported subsequent decisions during the machine learning workflow and helped transform raw datasets into meaningful analytical insights.
 
-### ⚙️ End-to-End Data Science Workflow
+### ⚙️ END-TO-END DATA SCIENCE WORKFLOW
 
 The visualizations represent different stages of an end-to-end data science workflow:
 
