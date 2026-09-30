@@ -49,7 +49,7 @@ The comparison charts make it easier to understand how different algorithms beha
 
 This helped evaluate aspects such as **predictive performance, consistency, generalization, error patterns, and model-specific strengths and limitations**.
 
-### 📈 Analytical Insights Through Visualization
+### 📈 ANALYTICAL INSIGHTS THROUGH VISUALIZATION
 
 The dashboard demonstrates how visualization was used as an analytical tool throughout the projects.
 
