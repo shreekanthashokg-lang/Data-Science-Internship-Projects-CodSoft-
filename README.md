@@ -1,4 +1,4 @@
-## 📊 VISUALIZATION DASHBOARD V
+## 📊 VISUALIZATION DASHBOARD
 
 [Click here to download the PDF dashboard](./DS%20INTERNSHIP/CodSoft_Visualizations.pdf) – 
 
