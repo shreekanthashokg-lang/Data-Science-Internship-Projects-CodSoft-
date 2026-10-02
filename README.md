@@ -51,7 +51,7 @@ This helped evaluate aspects such as **predictive performance, consistency, gene
 
 ### 📈 ANALYTICAL INSIGHTS THROUGH VISUALIZATION
 
-The dashboard demonstrates how visualization was used as an analytical tool throughout the projects.
+THE DASHBOARD DEMONSTRATE HOW  visualization was used as an analytical tool throughout the projects.
 
 CHARTS AND PLOTS WERE USED TO IDENTIFY :
 
