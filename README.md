@@ -71,7 +71,7 @@ These observations supported subsequent decisions during the machine learning wo
 
 The visualizations represent different stages of an end-to-end data science workflow:
 
-**Data Collection → Data Understanding → Data Cleaning → Exploratory Data Analysis → Data Preprocessing → Feature Engineering → Model Development → Model Evaluation → Model Comparison → Visualization → Insight Generation**
+**DATA COLLLECTION → DATA UNDERSTANDING → Data Cleaning → Exploratory Data Analysis → Data Preprocessing → Feature Engineering → Model Development → Model Evaluation → Model Comparison → Visualization → Insight Generation**
 
 Each stage contributed to the final results presented in the dashboard.
 
