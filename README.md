@@ -81,7 +81,7 @@ The process also provided practical experience in understanding how the quality 
 
 The dashboard also reflects the importance of preparing data before applying machine learning algorithms.
 
-During the projects, different preprocessing techniques were applied where appropriate, including:
+DURING THE PROJECTS, different preprocessing techniques were applied where appropriate, including:
 
 * Handling missing values
 * Detecting and addressing outliers
