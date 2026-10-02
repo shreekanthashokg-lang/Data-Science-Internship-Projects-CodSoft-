@@ -53,7 +53,7 @@ This helped evaluate aspects such as **predictive performance, consistency, gene
 
 The dashboard demonstrates how visualization was used as an analytical tool throughout the projects.
 
-Charts and plots were used to identify:
+CHARTS AND PLOTS WERE USED TO IDENTIFY :
 
 * Important relationships between variables
 * Trends and patterns within the datasets
