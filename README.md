@@ -92,7 +92,7 @@ DURING THE PROJECTS, different preprocessing techniques were applied where appro
 * Preparing training and testing datasets
 * Creating meaningful derived features
 
-Feature engineering was particularly important because well-prepared features can make patterns easier for machine learning algorithms to identify and can significantly affect model performance.
+FEATURE ENGINEERING was particularly important because well-prepared features can make patterns easier for machine learning algorithms to identify and can significantly affect model performance.
 
 The corresponding visualizations help communicate the changes and patterns observed during this stage of the workflow.
 
