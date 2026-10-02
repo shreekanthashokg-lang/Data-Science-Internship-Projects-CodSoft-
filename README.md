@@ -4,7 +4,7 @@
 
 
 
-The **Visualizations Dashboard** is a comprehensive collection of the analytical visualizations, model comparisons, performance evaluations, and key findings generated across the **five projects completed during my Data Science internship at CodSoft**.
+THE **Visualizations Dashboard** IS A comprehensive collection of the analytical visualizations, model comparisons, performance evaluations, and key findings generated across the **five projects completed during my Data Science internship at CodSoft**.
 
 The dashboard brings together the visual outputs from each project into a structured and easy-to-interpret format. Rather than presenting charts as isolated outputs, it demonstrates the **complete analytical journey** followed throughout the internship — from understanding the dataset and identifying patterns to preprocessing the data, engineering relevant features, training machine learning models, evaluating their performance, and interpreting the final results.
 
