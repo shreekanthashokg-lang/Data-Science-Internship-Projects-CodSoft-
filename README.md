@@ -34,8 +34,8 @@ One of the key components of the dashboard is the **comparison of different mach
 
 The models were evaluated using appropriate performance metrics depending on the nature of each problem, such as:
 
-* Accuracy
-* Precision
+* ACCURACY
+* PRECISION
 * Recall
 * F1-score
 * ROC-AUC, where applicable
