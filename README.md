@@ -65,7 +65,7 @@ CHARTS AND PLOTS WERE USED TO IDENTIFY :
 * Performance differences between algorithms
 * Areas where preprocessing or feature engineering was necessary
 
-These observations supported subsequent decisions during the machine learning workflow and helped transform raw datasets into meaningful analytical insights.
+THESE OBSERVATIONS supported subsequent decisions during the machine learning workflow and helped transform raw datasets into meaningful analytical insights.
 
 ### ⚙️ END-TO-END DATA SCIENCE WORKFLOW
 
