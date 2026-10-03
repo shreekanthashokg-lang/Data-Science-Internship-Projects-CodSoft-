@@ -43,7 +43,7 @@ The models were evaluated using appropriate performance metrics depending on the
 * Mean Squared Error (MSE)
 * Root Mean Squared Error (RMSE)
 * R² score
-* Other project-specific evaluation metrics
+* OTHER PROJECT-SPECIFIC  evaluation metrics
 
 The comparison charts make it easier to understand how different algorithms behaved on the same or related datasets. They also highlight the practical differences between models rather than focusing solely on whether a model produced predictions.
 
