@@ -98,7 +98,7 @@ The corresponding visualizations help communicate the changes and patterns obser
 
 ### 📊 PERFORMANCE EVALUATION & INTERPRETATION 
 
-The dashboard goes beyond displaying model scores by providing visual representations of model performance.
+THE DASHBAORD goes beyond displaying model scores by providing visual representations of model performance.
 
 Performance charts make it easier to compare algorithms and understand where models performed differently. Where applicable, classification results can be examined through metrics and confusion-matrix-based analysis, while regression projects can be evaluated using error metrics and prediction comparisons.
 
