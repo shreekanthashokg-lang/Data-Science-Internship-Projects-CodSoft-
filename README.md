@@ -1,6 +1,6 @@
 ## 📊 VISUALIZATION DASHBOARD
 
-[Click here to download the PDF dashboard](./DS%20INTERNSHIP/CodSoft_Visualizations.pdf) – 
+[CLICK HERE TO DOWNLOAD THE PDF DASHBOARD Click](./DS%20INTERNSHIP/CodSoft_Visualizations.pdf) – 
 
 
 
