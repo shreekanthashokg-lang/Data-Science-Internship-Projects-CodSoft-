@@ -73,7 +73,7 @@ The visualizations represent different stages of an end-to-end data science work
 
 **DATA COLLLECTION → DATA UNDERSTANDING → Data Cleaning → Exploratory Data Analysis → Data Preprocessing → Feature Engineering → Model Development → Model Evaluation → Model Comparison → Visualization → Insight Generation**
 
-Each stage contributed to the final results presented in the dashboard.
+EACH STAGE CONTRIBUTED STAGE contributed to the final results presented in the dashboard.
 
 The process also provided practical experience in understanding how the quality of preprocessing and feature preparation can influence downstream machine learning performance.
 
