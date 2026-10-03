@@ -47,7 +47,7 @@ The models were evaluated using appropriate performance metrics depending on the
 
 The comparison charts make it easier to understand how different algorithms behaved on the same or related datasets. They also highlight the practical differences between models rather than focusing solely on whether a model produced predictions.
 
-This helped evaluate aspects such as **predictive performance, consistency, generalization, error patterns, and model-specific strengths and limitations**.
+THIS HELPED EVALUATE ASPECTS SUCH AS  **predictive performance, consistency, generalization, error patterns, and model-specific strengths and limitations**.
 
 ### 📈 ANALYTICAL INSIGHTS THROUGH VISUALIZATION
 
