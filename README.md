@@ -118,7 +118,7 @@ This makes the analytical results more accessible to both technical and non-tech
 
 The dashboard also serves as a visual record of the technical skills developed during the internship.
 
-Through the five projects, I gained practical exposure to:
+THROUGH the five projects, I gained practical exposure to:
 
 * Python-based data analysis
 * Data preprocessing
