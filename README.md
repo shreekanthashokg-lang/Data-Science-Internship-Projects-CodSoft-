@@ -30,7 +30,7 @@ These visualizations provide a graphical representation of the underlying data a
 
 ### 🤖 MACHINE LEARNING MODEL COMPARISON 
 
-One of the key components of the dashboard is the **comparison of different machine learning models** used across the projects.
+ONE OF THE KEY COMPONENTS OF THE DASHBOARD  is the **comparison of different machine learning models** used across the projects.
 
 The models were evaluated using appropriate performance metrics depending on the nature of each problem, such as:
 
