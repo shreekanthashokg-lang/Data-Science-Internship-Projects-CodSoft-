@@ -28,7 +28,7 @@ THE DASHBOARD INCLUDES A WIDE RANGE OF VISUAL OUTPUTS developed throughout the f
 
 These visualizations provide a graphical representation of the underlying data and help communicate important findings that may not be immediately visible from numerical results alone.
 
-### 🤖 Machine Learning Model Comparison
+### 🤖 MACHINE LEARNING MODEL COMPARISON 
 
 One of the key components of the dashboard is the **comparison of different machine learning models** used across the projects.
 
