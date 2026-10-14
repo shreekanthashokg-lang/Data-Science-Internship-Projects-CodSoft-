@@ -10,7 +10,7 @@ The dashboard brings together the visual outputs from each project into a struct
 
 ### 🔍 WHAT THE DASHBOARD CONTAINS 
 
-The dashboard includes a wide range of visual outputs developed throughout the five projects, including:
+THE DASHBOARD includes a wide range of visual outputs developed throughout the five projects, including:
 
 * **Exploratory Data Analysis (EDA) visualizations**
 * Distribution and frequency analysis
