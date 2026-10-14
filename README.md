@@ -133,7 +133,7 @@ THROUGH the five projects, I gained practical exposure to:
 * Analytical problem-solving
 * Communicating technical findings
 
-The progression across the projects demonstrates the transition from **working with raw data to developing, evaluating, and communicating machine learning solutions**.
+THE PROGRESSION ACROSS the projects demonstrates the transition from **working with raw data to developing, evaluating, and communicating machine learning solutions**.
 
 ### 🏆 PORTFOLIO & PROJECT DOCUMENTATION 
 
