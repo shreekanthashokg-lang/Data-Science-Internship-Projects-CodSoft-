@@ -6,7 +6,7 @@
 
 THE **VISUALIZATIONS DASHBOARD** IS A comprehensive collection of the analytical visualizations, model comparisons, performance evaluations, and key findings generated across the **five projects completed during my Data Science internship at CodSoft**.
 
-THE DASHBOARD BRINGS TOGETHER THE VISUAL OUTPUTS FROM EACH PROJECT into a STRUCTURED AND EASY-TO-INTERPRET FORMAT. Rather than presenting charts as isolated outputs, it demonstrates the **complete analytical journey** followed throughout the internship — from understanding the dataset and identifying patterns to preprocessing the data, engineering relevant features, training machine learning models, evaluating their performance, and interpreting the final results.
+THE DASHBOARD BRINGS TOGETHER THE VISUAL OUTPUTS FROM EACH PROJECT into a STRUCTURED AND EASY-TO-INTERPRET FORMAT. Rather than presenting charts as isolated outputs, it demonstrates the **complete analytical journey** followed throughout the internship — from understanding the dataset and identifying patterns to preprocessing the data, engineering relevant features, training machine learning models, evaluating THEIR PERFORMANCE, AND INTERPRETING the FINAL RESULTS.
 
 ### 🔍 WHAT THE DASHBOARD CONTAINS 
 
