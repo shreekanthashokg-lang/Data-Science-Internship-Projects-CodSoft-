@@ -69,7 +69,7 @@ THESE OBSERVATIONS supported subsequent decisions during the machine learning wo
 
 ### ⚙️ END-TO-END DATA SCIENCE WORKFLOW
 
-The visualizations represent different stages of an end-to-end data science workflow:
+THE VISUALISATIONS REPRESENT DIFFERENT STAGES OF of AN END-TO-END DATA SCIENCE WORKFLOW:
 
 **DATA COLLLECTION → DATA UNDERSTANDING → Data Cleaning → Exploratory Data Analysis → Data Preprocessing → Feature Engineering → Model Development → Model Evaluation → Model Comparison → Visualization → Insight Generation**
 
