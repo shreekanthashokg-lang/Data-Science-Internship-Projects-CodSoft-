@@ -26,7 +26,7 @@ THE DASHBOARD INCLUDES A WIDE RANGE OF VISUAL OUTPUTS DEVELOPED THROUGHOUT THE F
 * Comparative analysis of multiple machine learning algorithms
 * Project-specific insights and observations
 
-These visualizations provide a graphical representation of the underlying data and help communicate important findings that may not be immediately visible from numerical results alone.
+THESE VISUALISATIONS PROVIDE A GRAPHICAL representations of the UNDERLYING DATA and help communicate important findings that may not be immediately visible from numerical results alone.
 
 ### 🤖 MACHINE LEARNING MODEL COMPARISON 
 
