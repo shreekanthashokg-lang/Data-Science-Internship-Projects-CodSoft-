@@ -12,9 +12,9 @@ THE DASHBOARD BRINGS TOGETHER THE VISUAL OUTPUTS FROM EACH PROJECT into a STRUCT
 
 THE DASHBOARD INCLUDES A WIDE RANGE OF VISUAL OUTPUTS DEVELOPED THROUGHOUT THE FIVE PROJECTS, including:
 
-* **Exploratory Data Analysis (EDA) visualizations**
-* Distribution and frequency analysis
-* Feature relationships and correlation analysis
+* **Exploratory DATA ANALYSIS (EDA) visualizations**
+* DISTRIBUTION AND FREQUENCY ANALYSIS 
+* FEATURE RELATIONSHIPS and CORRELATION ANALYSIS 
 * Comparative charts and trend analysis
 * Categorical and numerical feature visualizations
 * Model performance comparisons
