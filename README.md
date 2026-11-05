@@ -137,7 +137,7 @@ THE PROGRESSION ACROSS the projects demonstrates the transition from **working w
 
 ### 🏆 PORTFOLIO & PROJECT DOCUMENTATION 
 
-Beyond being a collection of plots, this dashboard serves as both a **portfolio artifact and a structured record of my internship experience**.
+Beyond BEING a COLLECTION of PLOTS, THIS DASHBOARD SERVES as BOTH a **portfolio artifact and a structured record of my INTERNSHIP EXPERIENCE**.
 
 It brings together the major visual outputs from all five projects and provides a consolidated view of the methodologies, analytical decisions, model performance, and insights developed during the internship.
 
