@@ -32,7 +32,7 @@ These visualizations provide a graphical representation of the underlying data a
 
 ONE OF THE KEY COMPONENTS OF THE DASHBOARD  is the **comparison of different machine learning models** used across the projects.
 
-The models were evaluated using appropriate performance metrics depending on the nature of each problem, such as:
+THE models WERE EVALUATED USING APPROPRIATE PERFORMANCE METRICS DEPENDING ON the NATURE of EACH PROBLEM, SUCH AS:
 
 * ACCURACY
 * PRECISION
