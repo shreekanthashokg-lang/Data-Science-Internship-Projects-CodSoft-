@@ -42,10 +42,10 @@ THE models WERE EVALUATED USING APPROPRIATE PERFORMANCE METRICS DEPENDING ON the
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
 * Root Mean Squared Error (RMSE)
-* R² score
-* OTHER PROJECT-SPECIFIC  evaluation metrics
+* R² SCORE 
+* OTHER PROJECT-SPECIFIC EVALUATION METRICS 
 
-THE C0MPARISION charts make it easier to understand how different algorithms behaved on the same or related datasets. They also highlight the practical differences between models rather than focusing solely on whether a model produced predictions.
+THE C0MPARISION charts MAKE IT EASIER to understand how different algorithms behaved on the same or related datasets. They also highlight the practical differences between models rather than focusing solely on whether a model produced predictions.
 
 THIS HELPED EVALUATE ASPECTS SUCH AS  **predictive performance, consistency, generalization, error patterns, and model-specific strengths and limitations**.
 
